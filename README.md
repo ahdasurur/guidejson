@@ -1,10 +1,2 @@
 #Image Categori
 ![sp 8](https://github.com/ahdasurur/guidejson/assets/154747055/eca56f49-7cb9-4146-9011-76dcee54b253)
-![sp 5](https://github.com/ahdasurur/guidejson/assets/154747055/d8a769c8-7f0f-4e06-8c4d-3c8467f4a80e)
-![sp 4](https://github.com/ahdasurur/guidejson/assets/154747055/5e99dbaa-a5ba-4da5-8a4d-fcfe8f199ff0)
-![sp 6](https://github.com/ahdasurur/guidejson/assets/154747055/2d577d6a-7ff3-4d3c-9b67-3f2531713023)
-![sp 1](https://github.com/ahdasurur/guidejson/assets/154747055/443ec56f-3519-426b-97e2-effe6356879f)
-![sp 9](https://github.com/ahdasurur/guidejson/assets/154747055/5dd41a2d-0827-4072-9ae6-f127983c5fb2)
-![sp 2](https://github.com/ahdasurur/guidejson/assets/154747055/b62a5370-8c2d-434d-924d-29916e5bcc44)
-![sp 3](https://github.com/ahdasurur/guidejson/assets/154747055/7d73d0f8-be68-414a-b298-8e8d792eb543)
-![sp 7](https://github.com/ahdasurur/guidejson/assets/154747055/bbc4443d-6bbf-4ee6-b244-344e45c3d09e)
