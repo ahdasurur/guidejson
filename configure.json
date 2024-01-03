@@ -22,7 +22,7 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "admob",
+      "main_ad": "applovin",
       "backup_ad": "none",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
@@ -32,19 +32,19 @@
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
       "ad_manager_app_open_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "fan_banner_unit_id": "729502102131760_729502345465069",
+      "fan_interstitial_unit_id": "729502102131760_729502418798395",
+      "fan_native_unit_id": "729502102131760_729502615465042",
       "startapp_app_id": "0",
       "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
-      "applovin_banner_unit_id": "0",
-      "applovin_interstitial_unit_id": "0",
-      "applovin_native_manual_unit_id": "0",
-      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_unit_id": "5c3be0248e996638",
+      "applovin_interstitial_unit_id": "53387fda31608bc5",
+      "applovin_native_manual_unit_id": "8d4a91c3c4e43dc1",
+      "applovin_open_ad_unit_id": "cf0386e2c3b34759",
       "applovin_banner_zone_id": "0",
-      "applovin_banner_mrec_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "8ce92310bc121d13",
       "applovin_interstitial_zone_id": "0",
       "ironsource_app_key": "85460dcd",
       "ironsource_banner_id": "DefaultBanner",
@@ -75,22 +75,22 @@
   "categories": [
     {
       "id": 1,
-      "name": "Apps",
+      "name": "Speeder",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/apps.png"
     },
     {
       "id": 2,
-      "name": "Game",
+      "name": "Tricks",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/game.png"
     },
     {
       "id": 3,
-      "name": "OS",
+      "name": "Tutorial",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/os.png"
     },
     {
       "id": 4,
-      "name": "Coding",
+      "name": "RTP",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/programming.png"
     },
     {
@@ -100,29 +100,29 @@
     },
     {
       "id": 6,
-      "name": "How To",
+      "name": "Jackpot",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png"
     },
     {
       "id": 7,
-      "name": "Tips & Trick",
+      "name": "Tips",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/tips-trick.png"
     },
     {
       "id": 8,
-      "name": "Lifestyle",
+      "name": "Guide",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/lifestyle.png"
     },
     {
       "id": 9,
-      "name": "Android",
+      "name": "Bonus",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/android.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Game, Tips & Trick",
+      "category": "Guide",
       "title": "Free Fire: Top 10 best M1014 gun skins in the game",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/free-fire.jpg",
       "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/free-fire.html",
@@ -130,109 +130,93 @@
     },
     {
       "id": 2,
-      "category": "How To, Lifestyle",
-      "title": "IKEA Malm Bed Building Tips - How to Build IKEA Furniture",
+      "category": "Speeder, Bonus, Jackpot",
+      "title": "Speeder",
       "image": "https://img.youtube.com/vi/EyH2rXSE6mM/mqdefault.jpg",
-      "content": "<p>This tutorial video is the exact opposite of the previous one about becoming more confident in public speaking. This is a finely drawn topic. It’s not how to put a bed frame together, it’s how to put the IKEA Malm bed frame together.</p><p>There’s no voiceover, the only audio in this tutorial video is the background music. But the audience is never left feeling lost for instruction. There are strategic callouts, which give tips and names of the specific parts being used. It’s a clever solution to a potentially dull voiceover detailing where to put screws.</p>",
-      "video": "https://www.youtube.com/watch?v=EyH2rXSE6mM&t=18s"
+      "content": "Spin 10 kali dan perhatikan setiap putaran pada room yang telah ditemukan. Dalam sepuluh spin ini, setidaknya kamu berkesempatan untuk memenangkan “Big WIN”. Artinya, kamu dapat meneruskan game dengan 100 putaran berikutnya. Jangan sampai lengah dan perhatikan pengurangan dan penambahan koin.",
+      "video": ""
     },
     {
       "id": 3,
-      "category": "Coding, Apps",
-      "title": "Object Oriented Programming Breakdown for Beginners",
+      "category": "RTP, Mods",
+      "title": "How To GrandJacpot",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/programming.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/programming.html",
+      "content": "Jika kamu mendapatkan scatter dan langsung gacor sebelum 100 spin, artinya kamu adalah orang yang beruntung. Perlu dicatat, akun dan ip smartphone juga berpengaruh atas kemenangan dalam game ini. Apabila trik tersebut gagal, kamu dapat mencoba keluar masuk room untuk mengulang trik yang sama",
       "video": ""
     },
     {
       "id": 4,
-      "category": "Game",
-      "title": "Mobile Legends on PC Bruno Guide: Best Build, Emblem and Gameplay Tips",
+      "category": "Tricks, Tutorial",
+      "title": "How To Maxwin",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/mobile-legends.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/mobile-legends.html",
+      "content": " cari room King of Olympus yang memiliki huruf “A Berwarna merah” dengan posisi berdekatan (menumpuk) setidaknya 5 simbol. Lalu perhatikan lagi ada satu simbol scatter di sembarang tempat. Dapat disimpulkan, kamu telah room gacor yang tepat.",
       "video": ""
     },
     {
       "id": 5,
-      "category": "Game",
-      "title": "PUBG New State on PC: Global launch time based on your country",
+      "category": "Tips",
+      "title": "How To Read A RTP",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/pubg.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/pubg.html",
+      "content": "kamu harus menemukan beberapa item berikut 3 Kakek Merah, 3 Bocil Hijau dan 3 Koin",
       "video": ""
     },
     {
       "id": 6,
-      "category": "Tips & Trick",
-      "title": "Awaken: Chaos Era: The complete Reroll guide and tips",
+      "category": "Tips, Speeder",
+      "title": "Cara Gacorin Akun",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/chaos-era.jpg",
       "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/chaos-era.html",
       "video": ""
     },
     {
       "id": 7,
-      "category": "OS, Apps",
-      "title": "How to build your own custom Android ROM",
+      "category": "Guide",
+      "title": "What IS Higgs",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/android.jpg",
-      "content": "file:///android_asset/how-to-build-your-own-custom-android-rom.html",
+      "content": " Higgs Domino Island merupakan permainan yang sapat diunduh di aplikasi Play Store. Aplikasi ini hanya diunduh tiga juta kali",
       "video": ""
     },
     {
       "id": 8,
-      "category": "Apps",
-      "title": "How to hide your iPhone photos in iOS 16",
+      "category": "RTP",
+      "title": "How to 6 Uncles",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/ios.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/ios.html",
+      "content": "Jika semuanya sudah terkumpul lalu lakukan auto spin 100x sebanyak dua putaran. Biasanya spin belum sampai selesai slotter akan mendapatkan scatter ataupun JP Kakek Merah senilai 70B.",
       "video": ""
     },
     {
       "id": 9,
       "category": "Mods",
-      "title": "The Witcher 3 Complete Edition Mods List",
+      "title": "Bocoran Maxwin",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/the-witcher.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/the-witcher.html",
+      "content": "Silahkan Baca Kembali Lalu Install Beberapa Speeder Pada More Apps",
       "video": ""
     },
-    {
-      "id": 10,
-      "category": "Lifestyle",
-      "title": "Holiday survival guide: How to seize the season before it seizes you",
-      "image": "https://img.youtube.com/vi/c-Rq61sXpV0/mqdefault.jpg",
-      "content": "<p>If you&rsquo;re dreading decking the halls with your relatives this year, there are seasonal survival tips that may help you get through the holidays.</p><p>If you feel holidays are more of a hassle than a hallmark movie, you&rsquo;re not alone. According to a recent poll, at least 75 percent of Americans admit they need to escape family this time of year. But there are ways to make the most of the season.</p><p>On average, Americans will stay with family for three and a half days and nearly 40 percent say finding sleeping arrangements is one of the most stressful parts of preparing for out-of-town family.</p><p>Other top concerns are lack of privacy, family getting on your nerves, and drama between family members.</p><p>&ldquo;Most of us want harmony in our families,&rdquo; says Family &amp; Marriage Therapist, Cherlette McCullough.</p><p>One of the most important sanity savers is to plan early, know who&rsquo;s traveling, and what the sleeping arrangements are.</p><p>Set realistic expectations for yourself. When you adjust your mindset to something that&rsquo;s realistic, you&rsquo;re already ahead of the game. It&rsquo;s important to find a balance between being generous and hospitable. Most importantly, keep the lines of communication open with your significant other about how you are feeling.</p><p>&ldquo;If you&rsquo;re feeling that you&rsquo;re not accepted, I would say the first thing too, talk to your mate about that,&rdquo; said McCullough.</p><p>One last tip, try outsourcing some of your big holiday meals. Experts say order in all of the holiday sides and trimmings and just focus on the turkey or ham. That way you spend less time in the kitchen and more time enjoying the season.</p>",
-      "video": "https://www.youtube.com/watch?v=c-Rq61sXpV0"
-    },
-    {
-      "id": 11,
-      "category": "Lifestyle",
-      "title": "Your Step-by-Step Guide to Filling Out a Money Order",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/money-order.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/money-order.html",
-      "video": ""
-    }
   ],
   "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
+      "title": "Speeder Vpn X8",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      "url": "https://play.google.com/store/apps/details?id=com.medev.maxvpn"
     },
     {
       "id": 2,
-      "title": "Stream Json",
+      "title": "Speeder Free Major",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+      "url": "https://play.google.com/store/apps/details?id=com.speeder.medev"
     },
     {
       "id": 3,
-      "title": "WebView Json",
+      "title": "Speeder Jacpot",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
+      "url": "https://play.google.com/store/apps/details?id=com.speederhiggsrp.x8domino.hokiedev"
     },
     {
       "id": 4,
-      "title": "Wallpaper Json",
+      "title": "Speeder Free Chip Island",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-wallpaper-json-android-wallpaper-app-212"
+      "url": "https://play.google.com/store/apps/details?id=com.medev.maxvpn"
     }
   ]
 }
